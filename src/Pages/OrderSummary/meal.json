@@ -1,0 +1,291 @@
+{
+    "mealPlans": [
+      {
+        "mealPlan": "Student Plan",
+        "category": "student",
+        "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png",
+        "prices": {
+          "Saturday": { "lunch": 85, "dinner": 95 },
+          "Sunday": { "lunch": 100, "dinner": 110 },
+          "Monday": { "lunch": 90, "dinner": 95 },
+          "Tuesday": { "lunch": 95, "dinner": 100 },
+          "Wednesday": { "lunch": 95, "dinner": 85 },
+          "Thursday": { "lunch": 100, "dinner":  90},
+          "Friday": { "lunch": 110, "dinner": 100 }
+        },
+        "menu": {
+          "Saturday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Egg", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Chilly Chicken", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Sunday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Local Fish", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "You will be surprised!", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Monday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Votta,Chef's Special", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Bhaji,Chicken Curry", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Tuesday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Chicken Curry", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Votta,Sea Fish", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Wednesday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Chilly Chicken", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Egg", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Thursday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Votta,Sea Fish", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Votta,Chef's Special", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Friday": {
+            "lunch": { "items": "You will be surprised!", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Bhaji,Local Fish", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          }
+        }
+      },
+      {
+        "mealPlan": "Student Plan",
+        "category": "general",
+        "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png",
+        "prices": {
+          "Saturday": { "lunch": 110, "dinner": 110 },
+          "Sunday": { "lunch": 110, "dinner": 110 },
+          "Monday": { "lunch": 110, "dinner": 110 },
+          "Tuesday": { "lunch": 110, "dinner": 110 },
+          "Wednesday": { "lunch": 110, "dinner": 110 },
+          "Thursday": { "lunch": 110, "dinner":  110},
+          "Friday": { "lunch": 110, "dinner": 110 }
+        },
+        "menu": {
+          "Saturday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Egg", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Chilly Chicken", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Sunday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Local Fish", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "You will be surprised!", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Monday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Votta,Chef's Special", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Bhaji,Chicken Curry", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Tuesday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Chicken Curry", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Votta,Sea Fish", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Wednesday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Chilly Chicken", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Egg", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Thursday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Votta,Sea Fish", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Votta,Chef's Special", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Friday": {
+            "lunch": { "items": "You will be surprised!", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Bhaji,Local Fish", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          }
+        }
+      },
+      {
+        "mealPlan": "Student Plan",
+        "category": "corporate",
+        "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png",
+        "prices": {
+          "Saturday": { "lunch": 110, "dinner": 110 },
+          "Sunday": { "lunch": 110, "dinner": 110 },
+          "Monday": { "lunch": 110, "dinner": 110 },
+          "Tuesday": { "lunch": 110, "dinner": 110 },
+          "Wednesday": { "lunch": 110, "dinner": 110 },
+          "Thursday": { "lunch": 110, "dinner":  110},
+          "Friday": { "lunch": 110, "dinner": 110 }
+        },
+        "menu": {
+          "Saturday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Egg", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Chilly Chicken", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Sunday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Local Fish", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "You will be surprised!", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Monday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Votta,Chef's Special", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Bhaji,Chicken Curry", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Tuesday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Chicken Curry", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Votta,Sea Fish", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Wednesday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Chilly Chicken", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Egg", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Thursday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Votta,Sea Fish", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Votta,Chef's Special", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Friday": {
+            "lunch": { "items": "You will be surprised!", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" },
+            "dinner": { "items": "Steamed Rice, Non-veg Dal,Bhaji,Local Fish", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          }
+        }
+      },
+      {
+        "mealPlan": "Corporate Plan",
+        "category": "corporate",
+        "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png",
+        "prices": {
+          "Saturday": { "lunch": 180},
+          "Sunday": { "lunch": 180},
+          "Monday": { "lunch": 180},
+          "Tuesday": { "lunch": 180},
+          "Wednesday": { "lunch": 180},
+          "Thursday": { "lunch": 180},
+          "Friday": { "lunch": 180}
+        },
+        "menu": {
+          "Saturday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Bhaji,Votta,Deshi Murgi,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Sunday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Votta, Cingri Dopiaza,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Monday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Bhaji, Duck,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Tuesday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Bhaji,Votta, Koral Fish,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Wednesday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Votta, Desi Murgi,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Thursday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Bhaji, Rupsada Fish,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          }
+        }
+      },
+      {
+        "mealPlan": "Corporate Plan",
+        "category": "general",
+        "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png",
+        "prices": {
+          "Saturday": { "lunch": 180},
+          "Sunday": { "lunch": 180},
+          "Monday": { "lunch": 180},
+          "Tuesday": { "lunch": 180},
+          "Wednesday": { "lunch": 180},
+          "Thursday": { "lunch": 180},
+          "Friday": { "lunch": 180}
+        },
+        "menu": {
+          "Saturday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Bhaji,Votta,Deshi Murgi,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Sunday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Votta, Cingri Dopiaza,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Monday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Bhaji, Duck,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Tuesday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Bhaji,Votta, Koral Fish,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Wednesday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Votta, Desi Murgi,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Thursday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Bhaji, Rupsada Fish,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          }
+        }
+      },
+      {
+        "mealPlan": "Corporate Plan",
+        "category": "student",
+        "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png",
+        "prices": {
+          "Saturday": { "lunch": 180},
+          "Sunday": { "lunch": 180},
+          "Monday": { "lunch": 180},
+          "Tuesday": { "lunch": 180},
+          "Wednesday": { "lunch": 180},
+          "Thursday": { "lunch": 180},
+          "Friday": { "lunch": 180}
+        },
+        "menu": {
+          "Saturday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Bhaji,Votta,Deshi Murgi,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Sunday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Votta, Cingri Dopiaza,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Monday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Bhaji, Duck,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Tuesday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Bhaji,Votta, Koral Fish,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Wednesday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Votta, Desi Murgi,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          },
+          "Thursday": {
+            "lunch": { "items": "Steamed Rice, Non-veg Dal,Vegitable,Bhaji, Rupsada Fish,Desert", "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png" }
+          }
+        }
+      },
+      {
+        "mealPlan": "Bevarage Plan",
+        "category": "",
+        "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png",
+        "prices": {
+
+        },
+        "menu": {
+         
+        }
+      },
+      {
+        "mealPlan": "Morning Plan",
+        "category": "",
+        "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png",
+        "prices": {
+
+        },
+        "menu": {
+         
+        }
+      },
+      {
+        "mealPlan": "Today's Plan",
+        "category": "",
+        "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png",
+        "prices": {
+
+        },
+        "menu": {
+         
+        }
+      },
+      {
+        "mealPlan": "Fast Food Plan",
+        "category": "",
+        "imageUrl": "https://i.ibb.co.com/JpTTGrF/hero-banner1.png",
+        "menu": [
+            { "name": "Spicy Pasta", "price": 149 },
+            { "name": "Baked Pasta", "price": 129 },
+            { "name": "BBQ Chicken Burger", "price": 159 },
+            { "name": "Mini Chicken Burger", "price": 99 },
+            { "name": "Cheesy BBQ Meatbox", "price": 200 },
+            { "name": "Boneless Meatbox", "price": 180 },
+            { "name": "Cheesy Meatbowl Mix", "price": 139 },
+            { "name": "BBQ Wings (3ps)", "price": 99 },
+            { "name": "BBQ Wings (6ps)", "price": 179 },
+            { "name": "Buffalo Wings (3ps)", "price": 99 },
+            { "name": "Buffalo Wings (6ps)", "price": 179 }
+          ]
+      }
+      
+    ]
+  }
+  
